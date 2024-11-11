@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, Fullstack Development
 - 🌱 I’m currently learning React, Python, Kotlin, fullstack development
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 ishitakhichar@gmail.com 
+- 📫 ishitakhichar@gmail.com and https://www.linkedin.com/in/ishita-khichar/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a different quirky hair color each month
 
